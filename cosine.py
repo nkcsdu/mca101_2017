@@ -1,3 +1,5 @@
+#Edit to the code is done
+
 def cosine(x):
     '''
     Objective : To find the cosine function of x
